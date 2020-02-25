@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/iampartha/static/css/main.d1b05096.chunk.css",
-    "main.js": "/iampartha/static/js/main.22633391.chunk.js",
-    "main.js.map": "/iampartha/static/js/main.22633391.chunk.js.map",
+    "main.css": "/iampartha/static/css/main.a2a2c77e.chunk.css",
+    "main.js": "/iampartha/static/js/main.8e084288.chunk.js",
+    "main.js.map": "/iampartha/static/js/main.8e084288.chunk.js.map",
     "runtime-main.js": "/iampartha/static/js/runtime-main.0b83d17d.js",
     "runtime-main.js.map": "/iampartha/static/js/runtime-main.0b83d17d.js.map",
-    "static/js/2.41dd3426.chunk.js": "/iampartha/static/js/2.41dd3426.chunk.js",
-    "static/js/2.41dd3426.chunk.js.map": "/iampartha/static/js/2.41dd3426.chunk.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/iampartha/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.9ebf7ac8.chunk.js": "/iampartha/static/js/2.9ebf7ac8.chunk.js",
+    "static/js/2.9ebf7ac8.chunk.js.map": "/iampartha/static/js/2.9ebf7ac8.chunk.js.map",
     "index.html": "/iampartha/index.html",
-    "precache-manifest.07542300b37b7282b176451419ecfdfa.js": "/iampartha/precache-manifest.07542300b37b7282b176451419ecfdfa.js",
+    "precache-manifest.53e7ad341ee6dae808637e9dda5df983.js": "/iampartha/precache-manifest.53e7ad341ee6dae808637e9dda5df983.js",
     "service-worker.js": "/iampartha/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/iampartha/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.41dd3426.chunk.js.LICENSE.txt": "/iampartha/static/js/2.41dd3426.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/iampartha/static/media/logo.5d5d9eef.svg"
+    "static/css/2.17e5ed98.chunk.css.map": "/iampartha/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.a2a2c77e.chunk.css.map": "/iampartha/static/css/main.a2a2c77e.chunk.css.map",
+    "static/js/2.9ebf7ac8.chunk.js.LICENSE.txt": "/iampartha/static/js/2.9ebf7ac8.chunk.js.LICENSE.txt",
+    "static/media/home.png": "/iampartha/static/media/home.af064e1e.png",
+    "static/media/iitm-logo.png": "/iampartha/static/media/iitm-logo.68f4a0d0.png",
+    "static/media/partha_multitasking.gif": "/iampartha/static/media/partha_multitasking.e9ec2577.gif",
+    "static/media/springworks.png": "/iampartha/static/media/springworks.818e62d8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0b83d17d.js",
-    "static/js/2.41dd3426.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.22633391.chunk.js"
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.9ebf7ac8.chunk.js",
+    "static/css/main.a2a2c77e.chunk.css",
+    "static/js/main.8e084288.chunk.js"
   ]
 }
