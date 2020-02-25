@@ -25,7 +25,7 @@ export default function Experience() {
     };
     return (
         <div>
-        <div className="row p-5">
+        <div className="row pt-0 pr-5 pl-5 pb-5">
             <div className='col-lg-12'>
                 <div className='row mb-5'>
                     <div className='col-lg-12 text-center'>
@@ -33,7 +33,7 @@ export default function Experience() {
                     </div>
                 </div>
                 <div className="row">
-                <div className="col-lg-6 text-center p-4">
+                <div className="col-lg-6 text-center p-2">
                 <Jumbotron className="mb-0 pt-5" fluid>
                     <Container fluid>
                         <img className="img-fluid experience-logo-size mb-5"
@@ -56,10 +56,10 @@ export default function Experience() {
                     </Container>
                 </Jumbotron>
             </div>
-            <div className="col-lg-6 text-center p-4">
+            <div className="col-lg-6 text-center p-2">
                 <Jumbotron className="mb-0 pt-5" fluid>
                     <Container fluid>
-                        <img className="img-fluid iitm-logo mb-4"
+                        <img className="img-fluid iitm-logo mb-3"
                             src={
                                 require("../Assets/Images/Experience/iitm-logo.png")
                             }/>
