@@ -16,17 +16,18 @@ export default function Home() {
     };
     return (
         <div>
-            <div className='row mb-4'>
+            <div className='row mb-4 m-0'>
                 <div className='col-lg-6 text-center p-5'>
                     <img className="img-fluid"
                         src={
                             require("../Assets/Images/Home/home.png")
-                        }/>
+                        }
+                        alt=" "/>
                 </div>
                 <div className='col-lg-6 text-center p-5'>
                     <Jumbotron fluid>
                         <Container fluid>
-                            <h1>Parthasarathi RV</h1>
+                            <h1 className='font-oleo'>Parthasarathi RV</h1>
                             <p>Full Stack Developer ( MERN ) @ Springworks Inc<br/>
                                 Former Research and Development Intern from IIT - Madras
                             </p>
