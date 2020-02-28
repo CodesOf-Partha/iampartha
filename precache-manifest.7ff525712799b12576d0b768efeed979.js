@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24527abed872ba021a6e188cfc65fb73",
+    "revision": "0ec499779ccbd6dfbff38fab4d16b3ba",
     "url": "/iampartha/index.html"
   },
   {
-    "revision": "acb8be165d0ba203c203",
+    "revision": "bf5beaffb54cb604d0fc",
     "url": "/iampartha/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "662eafd014c6648b4b6d",
-    "url": "/iampartha/static/css/main.86420f57.chunk.css"
+    "revision": "7d3af9f3ecbedf162e2b",
+    "url": "/iampartha/static/css/main.fbd72b28.chunk.css"
   },
   {
-    "revision": "acb8be165d0ba203c203",
-    "url": "/iampartha/static/js/2.59cee789.chunk.js"
+    "revision": "bf5beaffb54cb604d0fc",
+    "url": "/iampartha/static/js/2.1a184f88.chunk.js"
   },
   {
     "revision": "45743eacabc98cc7affdd6a9054edd02",
-    "url": "/iampartha/static/js/2.59cee789.chunk.js.LICENSE.txt"
+    "url": "/iampartha/static/js/2.1a184f88.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "662eafd014c6648b4b6d",
-    "url": "/iampartha/static/js/main.d88934c6.chunk.js"
+    "revision": "7d3af9f3ecbedf162e2b",
+    "url": "/iampartha/static/js/main.e077d21f.chunk.js"
   },
   {
     "revision": "be220cc932e03eef759f",

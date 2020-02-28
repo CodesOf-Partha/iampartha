@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/iampartha/static/css/main.86420f57.chunk.css",
-    "main.js": "/iampartha/static/js/main.d88934c6.chunk.js",
-    "main.js.map": "/iampartha/static/js/main.d88934c6.chunk.js.map",
+    "main.css": "/iampartha/static/css/main.fbd72b28.chunk.css",
+    "main.js": "/iampartha/static/js/main.e077d21f.chunk.js",
+    "main.js.map": "/iampartha/static/js/main.e077d21f.chunk.js.map",
     "runtime-main.js": "/iampartha/static/js/runtime-main.0b83d17d.js",
     "runtime-main.js.map": "/iampartha/static/js/runtime-main.0b83d17d.js.map",
     "static/css/2.17e5ed98.chunk.css": "/iampartha/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.59cee789.chunk.js": "/iampartha/static/js/2.59cee789.chunk.js",
-    "static/js/2.59cee789.chunk.js.map": "/iampartha/static/js/2.59cee789.chunk.js.map",
+    "static/js/2.1a184f88.chunk.js": "/iampartha/static/js/2.1a184f88.chunk.js",
+    "static/js/2.1a184f88.chunk.js.map": "/iampartha/static/js/2.1a184f88.chunk.js.map",
     "index.html": "/iampartha/index.html",
-    "precache-manifest.f1ba7ed6c277b844da7843bf1a847133.js": "/iampartha/precache-manifest.f1ba7ed6c277b844da7843bf1a847133.js",
+    "precache-manifest.7ff525712799b12576d0b768efeed979.js": "/iampartha/precache-manifest.7ff525712799b12576d0b768efeed979.js",
     "service-worker.js": "/iampartha/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/iampartha/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.86420f57.chunk.css.map": "/iampartha/static/css/main.86420f57.chunk.css.map",
-    "static/js/2.59cee789.chunk.js.LICENSE.txt": "/iampartha/static/js/2.59cee789.chunk.js.LICENSE.txt",
+    "static/css/main.fbd72b28.chunk.css.map": "/iampartha/static/css/main.fbd72b28.chunk.css.map",
+    "static/js/2.1a184f88.chunk.js.LICENSE.txt": "/iampartha/static/js/2.1a184f88.chunk.js.LICENSE.txt",
     "static/media/home.png": "/iampartha/static/media/home.324d856d.png",
     "static/media/iitm-logo.png": "/iampartha/static/media/iitm-logo.68f4a0d0.png",
     "static/media/springworks.png": "/iampartha/static/media/springworks.818e62d8.png"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.0b83d17d.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.59cee789.chunk.js",
-    "static/css/main.86420f57.chunk.css",
-    "static/js/main.d88934c6.chunk.js"
+    "static/js/2.1a184f88.chunk.js",
+    "static/css/main.fbd72b28.chunk.css",
+    "static/js/main.e077d21f.chunk.js"
   ]
 }
